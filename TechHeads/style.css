@@ -47,6 +47,7 @@ transition: .5s ease-in-out;
 
 /* Styles the close link, adds the slide down transition */
 
+
 a.lightbox-close {
 display: block;
 width:50px;
@@ -213,4 +214,9 @@ text-align: center;
 color: #333;
 font-size: 11px;
 padding: 10px;
+}
+
+ul.my-list-style {
+    list-style-type:square;
+   padding: 10px 20px;
 }
