@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tech Heads</title>
+<meta http-equiv="Content-Language" content="English" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+<h1><a href="#">Tech Heads</a></h1>
+<h2>RMIT Assignment 2</h2>
+</div>
+
+<div id="topMenu">
+<ul>
+<li><a href="index.html">Team Profile</a></li>
+<li><a href="tools.html">Tools</a></li>
+<li><a href="industryData.html">Industry Data</a></li>
+<li><a href="ITWork.html">IT Work</a></li>
+<li><a href="ITTechnologies.html">IT Technologies</a></li>
+<li><a href="ProjectIdeas.html">Project Ideas</a></li>
+<li><a href="GroupReflection.html">Group Reflection</a></li>1
+
+
+</ul>
+</div>
+<div id="content">
+
+<h2>IT Technologies</h2><br>
+<br>
+<hr size="3" width="100%" color="Blue">  
+<br>
+<div class="body">
+<h3> Cloud, Servers & Services </h3>
+<h4> What does it do? </h4><br>
+<p> Cloud servers are a centralised server resource, that is retrieved by numerous users and on demand typically via the internet. They are hosted and distributed over a network, which contains the same traditional purposes of a physical server, which delivers storage, applications and processing power (“What is a Cloud Server? | VMware Glossary” 2021). Having the ability to access a server remotely and utilise its features with just a computer and an internet connection, really shows what technology is capable of and how far it has come. Recently, cloud computing has evolved into a new standard of attracting businesses to transfer to, as it disregards the need to plan ahead and allows users to begin from the bottom and once more services are demanded, the number of resources can be increased. However, there are issues that remain unanswered, despite the opportunities that have been created within the IT industry because of cloud computing (Zhang, Cheng & Boutaba 2010).<br><br>
+</p>
+
+<p> Cloud computing can be utilised for a number of different tasks such as data analytics, storage, recovery and backup systems, testing and development, Infrastructure-as-a-Service, and Platform-as-a-Service. Cloud computing has opened up many paths to the future, and it will continue to do so with many other up and coming feature. What the future holds is anyone’s guess, but potential cloud features will most likely improve banking, healthcare, manufacturing, and even self-driving vehicles, along with improvement of diverse components such as cloud infrastructure, web applications, voice and text integration, machine learning and analytics, and many more special components (Sayegh 2021). It is only a matter of time until technology with this much power will be united into the world with the future of improvement.
+</p>
+
+<p> Virtualisation is a technology utilised to make cloud computing possible. In basic form, virtualisation helps to create a simulated, digital or virtual machine, that allows the cloud server to behave like a physical computer. This technology is so advanced, that it allows users to utilise the same cloud server, at the same time, and in different locations, without interacting or disrupting any data even though the users are on the same physical machine. Cloud computing makes everything a lot more efficient and economical when running multiple virtual machine at the same time, because then one server converts to several servers, and then one data centre, develops an entire army of data centres. This helps to serve many businesses at the same time, and at minimal costings (“What is the cloud? | Cloud definition” 2022).
+</p>
+
+<p> Cloud computing will continue to grow, and will be utilised by many organisations in the future. With technology growing at a fast rate, it is only a matter of time until new features of the cloud are unveiled. Technology continues to change and evolve the world that we live in today, and it is likely that we will see more technological advances that will only inspire cloud computing to become better in the near future.<br><br>
+</p>
+
+<h4>What is the likely impact?</h4><br>
+<p>Cloud computing has made life easy for many individuals, and for companies that are looking to save some money and become for efficient. This technology has made it easy for students to study and enrol online from anywhere in the world and at any time of the day. When an institution uses the cloud to store large amounts of data for easy access, it enables students to inexpensively access said data. Since the development of cloud computing, there have been many students in less developed countries, who have been able to access educational websites and commence studying online. Cloud computing has had a big impact on socialising, health, navigation, and shopping online. It has made life simple for those that haven’t been able to access these features physically (“Impacts Of Cloud Computing In Our Everyday Life” 2020).
+</p>
+<p>At present, there wouldn’t be much to change in regards to the positive impacts that have occurred around the world, however, as with anything in the modern world of technology, there will always be technical issues that impact companies or individuals negatively. Issues such as power or network outages, downtime, and even reboots. Events such as these can be critical to a company that solely relies on cloud based computing, as it can disable business processes, and could potentially damage the company (“Disadvantages of cloud computing | nibusinessinfo.co.uk” 2022).
+</p>
+<p>When moving to cloud computing, there are some likely changes that will occur, such as the process of product designing, closer relationships between departments and IT department, and better customer relations and interactions (“How Cloud Computing Is Changing Management” 2018). Depending on the department will depend on how much cloud computing will affect each individual. If a company decides to move to cloud computing, it is likely that they will no longer need the IT department, which means the IT employees would no longer be in a job.<br><br></p>
+
+<h4>How will this affect you?</h4><br>
+<p>The change to cloud servers over the years has been more than beneficial to many people around the world. From being able to study online, work from home, utilise social media and online entertainment, and online shopping, it has made living much easier, especially with the pandemic that we are currently in.
+</p>
+<p>Given the current pandemic, it is good to know that a lot of companies are utilising cloud computing and storing data on the cloud because of the easy access for those that are having to work from home. In any case, most people can access their work documents right from their home office, which allows them to continue to be in the workforce and support themselves and their families.
+</p>
+<p>The way the world is currently, there will not be much change because we are so content with what we have in today’s modern society. Everything we use is connected to a server, from watching Netflix, playing video games, studying online, using our mobile phones and the downloadable applications, communicating with friends and family. Everything we do and use, is connected to the cloud in some way, most people just don’t know it.
+</p>
+<p>While all the companies are moving to modern cloud computing, the older generation are slowly starting to evolve into the modern ways, though it is not as easy as we think. From using paper and facsimile machines, companies are now using electronic emails as their main method of communication, which for the older generation, may seem overwhelming at times. However, it is something that will become normal to the older generation as time goes on.
+</p><br>
+<br>
+<hr size="3" width="100%" color="Blue">  
+<br>
+<h3>Autonomous Vehicles</h3>
+<p><h4>What is an Autonomous Vehicle?</h4><br> It is a Vehicle that is able to drive and perform functions with little to no human intervention or operation, often using technologies like lidar, radar, gps and cameras to assist with this. You’ve probably heard of Tesla, the electric car company not to be confused with the creator of alternating current Nikola Tesla of which they were named after, but have you heard of their self-driving tech?. Their self-driving tech is aptly named ‘Autopilot’ and is an advanced driver-assistance system (ADAS) built into their various electric cars.Tesla has been developing Autopilot since publicly discussing it in 2013 and subsequently offered customers the ability to purchase Autopilot in 2014 (Tesla 2022). Tesla has recently stated that they believe they will reach Level 4 autonomy by 2022 (Eva Fox 2021). But what is Level 4 autonomy and what can Autopilot currently do?. There are currently 6 Levels of Autonomous vehicles, defined by SAE (Society of Automotive Engineers).
+</p><br><p>Level 0 has little to no automation which are most cars you find on the road today or probably the one you currently drive. Level 1 can have certain features like adaptive cruise control which can adjust the speed of the vehicle based on the distance of objects and cars around it. Another Level 1 feature is emergency braking, which will be able to automatically activate the brakes in the vehicle if it detects a potential collision. Tesla claims that they are currently at level 2 autonomy which allows the automated system to control acceleration, braking and steering but still requires the driver to monitor Autopilot's driving and to be prepared to take over at any time. Level 3 includes much of Level 2’s automation system, but to a higher degree that the driver can do other tasks like text or watch a movie, but the driver may still be required to take over from the automated system and will be notified to intervene by the system. Level 4, which Tesla previously claimed they believe they’ll be at by 2022, is like Level 3 but the driver isn’t required to take over at all. That means the driver of a level 4 autonomous vehicle can sleep or leave the driver’s seat. Level 4 vehicles may be limited to a specific geographical area like only being able to drive within a city, or might only be used under specific circumstances as. Level 5 encompases all of Level 4 without any of the restrictions which would make it basically a ‘true’ autonomous vehicle (SAE International 2018).
+</p><br><p>There are many technologies that help with autonomous systems. Tesla uses multiple cameras and ultrasonic sensors that scan the road, other cars and objects around the vehicle which are then processed by the car’s built in computer to help identify what those objects are and how to interact with them. Tesla has stated its intent to offer SAE Level 5 full autonomous driving in the future once it has developed the technology and overcome regulatory hurdles. Are there other car companies with self-driving cars? Tesla isn’t the only company with self-driving. Waymo is an American autonomous driving technology development company that shares parent companies (Alphabet) with google. Waymo in collaboration with Jaguar Land Rover have been developing self driving tech for commercial and personal vehicles and have already tested their self driving vehicles over millions of kilometers in US cities. In April 2017 Waymo invited 400 users in Phoenix, Arizona to try out Waymo’s transportation service. By November 2019, Waymo was the first autonomous service worldwide to operate without safety drivers in the car. They have since started testing in San Francisco (Waymo 2022).
+</p><br>
+<p><h4>What is the likely impact?</h4><br> Imagine your car driving out of the garage, picking you up in front of your house, driving you to your destination, dropping you off, then finding its own parking spot and parking itself. Imagine taking a trip that requires several hours of driving, you can sleep through the drive without ever having to put your hands on the steering wheel and wake refreshed and ready for the day at your destination. Perhaps you don’t own a car or you can’t drive because either you don’t have a license or can’t get one due to a disability. You order a self-driving taxi and it takes you to your required destination without having a human driver on board at all. With the technologies being developed, self-driving technology has the potential to be much safer than Level 0 cars and may also benefit those without the ability to drive, with the option of owning their own vehicle. This technology could also provide services outside of normal hours or in locations where you may not find many transport options available. I believe the Taxi and Uber services would be most affected by this self-driving technology in both good and bad ways. A taxi or an uber service could earn someone money without that person having to drive their car but this means that large corporations could flood the market with a fleet of their own self-driving vehicles to drive people around. This could also affect public transportation like buses equipped with self-driving technology or to a lesser extent, Trains and trams, some of which already have self-driving capabilities. This technology also has the potential to create jobs, such as those that would manufacture the parts as well as create the software, monitor the networks, repair the technology and provide support to the user.
+</p><br>
+<p><h4>How will this affect me?</h4><br> I currently don’t drive and regularly take Uber services. If this makes Uber services more affordable and more available for me, then I believe that I would use the service more often. I usually take public transport for a long trip, perhaps I will take longer uber trips, replacing some of the trips I might’ve made with public transport. I would probably use Uber to make trips to places I wouldn’t usually go as public transportation to those areas could be inconvenient or non-existent. My family would probably use this service in much the same way I would. If an autonomous vehicle Uber service was available and affordable enough I wouldn’t be surprised to see members of my family give up cars altogether. Only if it worked out cheaper after you add up your own vehicle's cost of ownership like repayments, petrol costs, insurance, maintenance and registration. As a family and on my own I would take longer trips, perhaps even interstate, since I would be able to sleep on the way instead of choosing a train or a plane. I think I would prefer the more private space of a car. Outside of the automotive industry, there are other types of autonomous vehicles such as delivery drones. Amazon has started delivering with drones up to a certain distance from your house from their distribution centres. I believe this is something that I would often use and should be faster than regular delivery services. My family and I often use Amazon for our shopping, if the package was quickly flown over houses and delivery to a landing pad on your yard I believe it would be faster than current deployment options which usually involve loading up a delivery van with multiple packages followed by that delivery driver having to stop at every house on their delivery route and also being at the mercy of traffic and regular road rules.
+</p><br>
+<br>
+<hr size="3" width="100%" color="Blue">  
+<br>
+<h3>Natural Language Processing and Chatbots</h3>
+<br>
+<p>Natural Language Processing is a branch of Artificial Intelligence that allows computers to understand the phrases or statements written in human language (Khurana, Koli, Khatter and Singh, 2022). Machine translation, email spam detection, image captioning, information extraction, spelling check, sentiment analysis, speech recognition and summarization are some examples of domains where Natural Language Processing can be used (Khurana, Koli, Khatter and Singh, 2022). Almost every household uses devices and applications like Alexa, Google's voice search, Siri, and Chatbots. These are all examples of Natural Language Processing Technology. Humans interact with each other using social media and other applications daily. During interactions, various data are shared through devices which is essential in learning human behaviour. Data analysts utilize these data to give machines the ability to understand and imitate human language. The first research of Natural Language Processing started in the 1950s by Alan Turing (Ali,2021). Ali (2021) states that the NLP is becoming an active area for further research and development. The primary concern of Natural Language Processing at present is to convert many natural languages into machine language. However, in a few years' time, the computer will get adept in understanding the question and answer like human rather than searching for results (Khurana, Koli, Khatter and Singh, 2022).
+
+</p><br>
+<h4>State of the art in Natural Language Processing</h4>
+<p>Recurrent Neutral Networks- The state-of-the-art algorithm for sequential data is recurrent neural networks (RNN), which are utilized by Apple's Siri and Google's voice search (Recurrent Neural Networks (RNN): What It Is & How It Works | Built In, no date). RNNs can memorize the previous output or computation and use that previous data to produce the result of new input data and the process continues. </p>
+<p>Long Term Short Memory (LTSMs's) Long-term memory is introduced into recurrent neural networks using LSTM. LTSMs are the type of recurrent neural network which includes three gates- input, forget and output gate through which information is processed (The Current State of the Art in Natural Language Processing (NLP), 2022). </p>
+<br>
+<p>Chatbots are digital helper or application that provides customer service support like humans. Chatbots use Natural Language Processing to process the human language, understand it and answer appropriately (Lun ,2022). It uses artificial intelligence to provide a natural language user interface to various databases, allowing users to interact with application systems in a natural way, whether through text or audio (Meyer von Wolff, Hobert and Schumann, 2019). The combination of computational linguistics with machine learning, deep learning and statistical models allows computers to understand human language (What You Should Know about NLP Chatbots – Visor.ai, 2022). The use of Natural Language Processing makes the conversation interesting and informative. NLP allows chatbots to understand complex human language. People become more engaged when a conversation with chatbots becomes more like having a conversation with the person.</p>
+<br>
+<h4>Impacts of Natural Language Processing and Chatbots</h4>
+<p>There are numerous positive impacts of Natural Language Processing in our everyday life. For instance, NLP has made it easy for us to ask any question and get answers instantly. Whether it is a simple auto corrector while typing a text or grammar checks when sending an email, we utilise NLP most of the time. NLP has made life easier for students like me by introducing applications like Grammarly, which helps to check grammar, punctuation, and usage of words and sentences. In addition, Natural Language Processing technology has greatly assisted us during the pandemic. With the restrictions and closure of businesses, many consumers and businesses lost a way of communicating with consumers. Many companies have used Chatbots to close this gap and stay connected with consumers. Moreover, health sectors have greatly benefited from Natural Language Processing. Patients with chronic and acute conditions were able to receive hands-off, remote assessment and treatment with the use of NLP systems (Carriere et al., 2022)</p>
+<br>
+<p>It is certain that Natural Language Processing Systems will continue to advance to the point when talking to the machine will eventually feel like talking to a human (Zhang, 2022). Various businesses and other industries are already using Chatbots as a replacement for a customer service representatives. With the continuous advancement in technology, it is evident that Chatterbots will be able to fulfil most of the requirements of a Customer Service Representatives. On the one hand, companies will save a lot of workforce and time. On the other hand, it will negatively impact the job market as the job opportunities like customer service representatives may become redundant.</p>
+<br>
+<p>Chatbots are becoming popular across businesses as this has eased the pressure for companies to hire a staff and become available 24/7. It has also assisted customers like us in getting the answers to the question quickly and efficiently without waiting hours in the phone line or in the que. Although some people may find Chatbots a beneficial technological development, others will prefer a human talking to them rather than a digital helper. Some businesses or organizations that use chatbots sometimes do not disclose that customers are talking to Chatbots. This may mislead their consumers and create frustrations. Chatbots may create customer dissatisfaction. For instance, some customers may think that they are talking to a customer service representative because of the human name given to the chatbot. In our own family, members of older generations who are not familiar with Chatbot or other applications and devices with Natural Language processing Systems may hesitate and find it complicated. However, the positive impacts of these Artificial Intelligence outweighs the negative impacts.
+
+</p> 
+
+</div>
+
+<div id="footer">
+Designed by Tech Heads Team
+</div>
+</div>
+
+</body>
+</html>

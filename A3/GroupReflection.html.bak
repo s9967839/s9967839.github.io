@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tech Heads</title>
+<meta http-equiv="Content-Language" content="English" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+<h1><a href="#">Tech Heads</a></h1>
+<h2>RMIT Assignment 2</h2>
+</div>
+
+<div id="topMenu">
+<ul>
+<li><a href="index.html">Team Profile</a></li>
+<li><a href="tools.html">Tools</a></li>
+<li><a href="industryData.html">Industry Data</a></li>
+<li><a href="ITWork.html">IT Work</a></li>
+<li><a href="ITTechnologies.html">IT Technologies</a></li>
+<li><a href="ProjectIdeas.html">Project Ideas</a></li>
+<li><a href="GroupReflection.html">Group Reflection</a></li>1
+
+</div>
+
+<div id="content">
+
+<h2>Group Reflection</h2>
+<br>
+ <br>
+ 
+<div class="body">
+<H4>Sonam Shahi</h4>
+I would describe my overall experience working in a group for this assignment as one of my best group works. Despite of joining the group little late, 
+the members welcomed me without any hesitation. There was full participation and engagement from all the team members. The best part was that our meetings 
+and conversations were enjoyable, relaxed, and at the same time, very fruitful. Besides, the team members’ contributions were tremendous.. It was easier to 
+understand the assignment task clearly as we discussed the requirements together. Giving and receiving feedback from the team members on our work gave me 
+confidence and motivation to complete the task.
+<br>
+Although we had hour-long meetings, I think that the only thing that could have improved was to have more sessions as they were one of the exciting parts of the group project. 
+Overall, our group ‘ Tech heads’ performed well by showing flexibility, openness, honesty, enthusiasm, and dedication and I must say that this experience has improved my collaboration, 
+communication and team work skill. 
+<BR><BR>
+<br>
+<hr size="3" width="100%" color="Blue">  
+<br>
+ <H4>Sameh Abdelhamid</h4>
+<BR><BR>
+Overall, the team was just fantastic. Everyone really worked well together. People made time for the meetings and they were very attentive and they did the work they said. 
+It was surprising how comfortable everyone was after the first meeting where we had a good ice breaker and people were not scared to say where they felt insecure (with certian technologies etc). and this was great as we were able to focus on what needed to be done
+and we could allocate tasks out well. 
+The one thing i think that could be improved if were able to have more collaboration sessions where we did the work during the meetings instead of talking. That would have knocked out alot of the work quickly. 
+The one thing I've learnt about groups is that when you work hard initially to build rapport and come together and share common stories (not work related) you manage to work better as a team becuase people feel more comfortable. This was deifnatley the way 
+in our team and we had great dynamic. 
+<br>
+I dont think the Github activity reflects the effort at all. Becuase some of us didn't feel comfortable with github and with HTML, we shared the load and focused on working on peoples strengths. Some of the team were better and quicker at HTML and took the load and others worked offline 
+and uploaded to google drive. This was great for our team. 
+<br>
+
+
+<br>
+<hr size="3" width="100%" color="Blue">  
+<br>
+<br>
+ <H4>Desmond Knowles</h4>
+<BR><BR>
+<br>
+<hr size="3" width="100%" color="Blue">  
+<br>
+<br>
+ <H4>George Tsolomotis</h4>
+<BR><BR>
+<br>
+<hr size="3" width="100%" color="Blue">  
+<br>
+Towards the end of the assignment period, you should reflect as a group on how well you think you have performed in this assignment. You should include whatever evidence you may have about the groups processes (such as commit trails from GitHub, or project meeting minutes). Each member of the group should contribute up to 200 words about their own perception of the group, and the group as a whole should contribute around 400 words. This should include the following attributes.<br>
+• What went well<br>
+• What could be improved<br>
+• At least one thing that was surprising<br>
+• At least one thing that you have learned about groups<br>
+• Remember to include in your section on Tools how well you think your Github log of activity reflects your group’s work on this assignment.
+
+</div>
+
+<div id="footer">
+Designed by Tech Heads Team
+</div>
+</div>
+
+</body>
+</html>
