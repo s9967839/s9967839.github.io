@@ -165,6 +165,8 @@ The system should validate that it can run with minimal CPU usage whilst other n
 Security testing is one of the most important tests before releasing an application, which involves identifying the weaknesses and exposures in code. By exploiting the applications weaknesses, we are able to rectify them and make the application more impervious to security threats.<br>
 <br><br>
 
+<img src="images/timeline.png" alt="SamPic" style="border: 3px solid #ccc width="650" height="450"; /><br><br>
+
 <b>Risks</b><br><br>
 Our motivation in this not-for-profit organisation is to lessen the impact of deforestation by creating an easy way for people to donate a small amount to eco-friendly organisations. These organisations employ people in underprivileged areas so they don’t have to continue their previous reliance on logging. We’d also like to donate to organisations that buy land to replant forests.
 </br><br>
