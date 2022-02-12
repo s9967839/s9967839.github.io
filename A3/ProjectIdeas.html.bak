@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tech Heads</title>
+<meta http-equiv="Content-Language" content="English" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+<h1><a href="#">Tech Heads</a></h1>
+<h2>RMIT Assignment 2</h2>
+</div>
+
+<div id="topMenu">
+<ul>
+<li><a href="index.html">Team Profile</a></li>
+<li><a href="tools.html">Tools</a></li>
+<li><a href="industryData.html">Industry Data</a></li>
+<li><a href="ITWork.html">IT Work</a></li>
+<li><a href="ITTechnologies.html">IT Technologies</a></li>
+<li><a href="ProjectIdeas.html">Project Ideas</a></li>
+<li><a href="GroupReflection.html">Group Reflection</a></li>1
+
+</ul>
+</div>
+<div id="content">
+
+<h2>Project Ideas</h2><br><br>
+
+<div class="body">
+<b>Overview</b><br><br>
+The concept of the application that I have come up with is a system which integrates with pay pass on a user’s mobile phone, and upon buying an item, the user is prompted if they would like to round up the transaction to the next dollar and donate the funds to a number of organisations that have opted in.
+The user will select the charity when setting up their account, and if they purchase a coffee for $3.80, they will get a quick prompt to donate 0.20c to the charity. They can click yes or no. Upon clicking yes, the funds will be sent to the organisation.
+The non-profit orgs will be based on helping the deforestation issue that we face in today’s global crisis. They will range from teams that re-plant, to companies that are assisting with the Amazon deforestation and palm oil issues.
+
+<br><br>
+<b>Aim</b><br><br>
+The aim of this project idea is to create a mobile application that will be integrated into the user’s digital wallet (Apple Pay or Google Pay), and once activated, the user will be prompted to make “Chump Change Donations” to an organisation of their choosing by rounding up their purchase to the nearest dollar or a specific amount selected by the user. Our end goals with this mobile application is to help prevent deforestation and raise money to help various teams re-plant the many hectares that have been lost over the years. It is also being designed to assist companies with the deforestation of the Amazon, along with the palm oil issues that we are currently experiencing.
+From 2015 through to 2020, the deforestation rate was estimated at approximately 10 million hectares per year (“The State of the World’s Forests 2020” 2020). The aim here is to show user’s that we can save our forests if we all helped out just a little bit at a time, as this project is one that will grow over a period of time. Our goal for this is to be able to help those organisations that are re-planting the forests and create more funds for them to continue to work towards their goals. 
+The unsustainable palm oil production has had the largest impact to tropical forests and the devastation. This has led to an extensive amount of loss within the habitat for endangered species which can lead to major soil erosion (“WWF - Palm oil” 2018).
+Our aim is to try and save the forests around the world with our project idea, and to raise enough money for organisations that are working hard to accomplish their goals. If we become successful and we save the endangered species and their habitat, then we will not only be achieving our larger, main goal, but also our minor goals.
+<br><br>
+
+<b>Motivation</b><br><br>
+ Between 2015 and 2020, the rate of deforestation was estimated at 10 million hectares (FAO, n.d.). This is an alarming rate of deforestation and one that needs to be solved for future generations. Many studies have also linked global warming to the deforestation, as well as numerous other global impacts.
+The only way to deal with this is to have a long-term mitigation plan in place.
+Pay pass uptake has grown significantly and recent research has shown that cardholders use pay pass card more often (at a rate 52% more than not having a pay pass) (Datamonitor, 2006).
+There are many organisations around the world that are buying land, planting trees, and finding ways to employ people in underprivileged areas that rely on logging. These organisations are in desperate need of funding, and this app could generate millions of dollars of funds by using small amounts of donations.
+<br><br>
+
+<b>Description</b><br><br>
+The product that will be built is a smartphone application that will sit inside the user’s digital wallet (integrated with Apple Pay or Google Pay).
+When a user has activated a credit card for pay pass on this application, they will be prompted to setup “Chump Change Donations”. Upon selecting this, a list of organisations which have been vetted to be authentic will be selected.
+The user can select any one organsiation – these organisations will be non for profits which are hand selected by the team that qualify for deforestation duties. The qualities that we will look for include but are not limited to the following <br><br>
+•	Amazon conversationalists (working with areas of the amazon forest to buy land for conservation <br>
+•	Rainforest replantation teams <br>
+•	Sustainable logging organisations, helping the logging industry and the global use for wood by aggressive replanting.<br><br>
+The app will be registered as an Apple pay/Google Pay beneficiary, when a purchase is made using the RFID on the user’s phone, the app will calculate the amount to the next dollar value and request the user to opt in or opt out for donation.
+Upon opting in, the transaction will be debited using the smartphones pay app and sent to the organsiation of choice. The user can opt out of the application at any stage by de-registering from their digital wallet. The user can also decline the rounding up every time if they have had a change of heart. The system relies purely on people’s generosity for this global crisis and does not in any way want to deceptively make transactions.
+The technical limitations of this require that the Chump Change application is a registered application to be added to Google pay/Apple pay. Organisations will apply and be vetted for their suitability to be part of the Chump Change System. They will need to meet certain criteria to qualify for receiving the funds. Only established organisations with strict requirements to deforestation will be allowed to partake in the system.
+This application is limited strictly to smartphones and people who are using pay pass. It will not directly impact or deal with the banks and will act as a standard purchase being made from the user’s device as they would any retail transaction. The transactions will not cost the user anything as it will be dealt with as a credit card transaction.
+<br><br>
+
+<b>Funding</b><br><br>
+We have investigated funding streams and have identified there are goverment grants for green initiatives. These are applied as grants for applications that assist in reaching carbon neutral.<br>
+In order to acheive this, we would need to ensure that there are initiatives locally (In Australia). This can be acheived by sourcing local green companities that support re-forestation on the mainland. 
+<br>
+In order to assist with onboarding users we have determined that we can run competition campaigns that provide several gifts monthly (randomly) for donation providers. These gifts will be provided from application sponsors that we will source during campaigns. 
+<br><br>
+
+<b>Tools And Technologies</b><br><br>
+Our project requires a diverse range of software and tools such as ‘XCode’ and ‘Android Studio,’ which will allow us to build our mobile application for Apple and Android devices. By doing so, we are able to reach more users on a wider scale, which gives our project idea more potential. Both software’s require licencing to be able to sell a mobile application on each platform, along with having an Australian Business Number. Running and selling an application is classified as a business, which required any sole trader or company, to have an ABN. 
+For our team to be able to create such an application, we would require a level of hardware in order to complete our main goals and continue to run the application full-time. The development workstation, or hardware, should meet or exceed the requirements listed below:
+•	At least 250GB of free disk space for code checking<br>
+•	An additional 150GB to build the application <br>
+•	Intel i5 CPU (i7 is recommended)<br>
+•	8GB RAM (16GB is recommended) <br>
+•	Resolution display of 1920 x 1080 <br>
+•	Multiple monitor setup is recommended, however not required (Recommendation is for efficiency purposes) <br>
+•	Solid State Drive (SSD), or an additional Hard Disk Drive (HDD) <br>
+The specifications listed above are a recommendation that should be met in order to build the simplest applications, and in this case, the recommendations should meet, or exceed our needs. 
+Our mobile application will be cloud hosted, and we have decided to utilise ‘Amazon Web Services’ (AWS) as our cloud host. AWS provides web hosting solutions for many businesses, which includes non-profits with low-cost website and web application deliveries. 
+GitHub will be utilised as our main application for version controlling our code, which will assist the team with collaborating and keep track of the different code being used. GitHub will retain any changes that have been made to the original code, when they were made and by whom. Given that both Sameh and Desmond have had experience with using GitHub, it makes sense to use this strength to our advantage.
+Our project will be managed by Trello, using Kanban boards which will show user stories, testing, along with tracking and monitoring of progression. Trello can be extremely helpful when managing projects and collaborating with teams. It will help our team to keep track of the work being completed and separate tasks for each department of the project. Sameh, our team leader, has previously worked with Trello and has recommended that we utilise this to create a better workflow and smoother transitions to each department.
+<br><br>
+
+<b>Testing</b><br><br>
+The purpose of the testing stage is to validate that the application is scalable and available across multiple platforms, and its functionality, consistency, and usability are all up to standard. One of our goals is to reach as many users as possible and to get people utilising our application on a daily basis with little to no issues, which is why we want our application to be of high-quality.
+A test case denotes a feature or functionality that, in a way, requires a number of actions in a sequenced order to gain validation of said feature. Basically, the test cases will allow our team to analyse the steps, information, requirements, and conditions of each feature, in order to verify them.
+Once we have completed multiple layers of testing and we are happy with the outcome, we will release our application to the public and begin our advertisements. This will help grow our user count. Our test users will range from people who use different devices, such as different brands of mobile phones that utilise the iOS or Android systems, along with those that use their smart watches, or any other smart device utilising those operating systems. Test users will most likely be those that enjoy donating to different causes, which we will find by advertising online that we are seeking mobile application testers.
+Test Case 1: As a user of the system, I would like to be able to make a payment, and then be notified of the rounding amount.
+•	Once the user makes a payment, our system should send a notification within the mobile application to alert the user, along with an email confirmation and receipt of the rounded amount.
+Test Case 2: As an everyday user of this system, I would like to be able to see how much I have donated in total to each organisation.
+•	The system will track every donation that a user makes within the mobile application, and will illustrate the total amount that has been donated to each individual organisation. This is purely to show the user how much they contributed over time.
+Test Case 3: When using this application every day, I would like it to be able to operate in the background without having to access the application every time I buy an item.
+•	With the application being linked to Apple Pay or Google Pay, every time a purchase is being made, the system will automatically detect the transaction. Just before the transaction is submitted, the application will send the user a notification to round up to the nearest dollar, or a specific amount, and donate to one of the selected organisations.
+Test entry criteria provides the essential items that are required to be completed prior to testing. In this case, it is essential for us to undertake the entry testing as it will provide us with a rough idea of what we will require for testing and how we will undertake those tests. It can be a great way to be able to maintain quality, efficiency, effectiveness, and ensure that conditions are met for our mobile application.
+Test exit criteria illustrates what is required to be completed prior to the completion of the testing phase. This will assist in minimising the risk that is being taken during the testing process, which could change the outcome of the application if conditions are not met. Expansion and enhancement processes, along with many others, can assist our development by understanding the conditions and expectation.
+The system should validate that it can run with minimal CPU usage whilst other native applications are running simultaneously. Our performance testing procedure will consist of speed tests, application response time, the consistency and steadiness, which are standard tests that should occur when creating an application. We will also complete a scalability test, which will help to govern the load that the application can handle and if it can handle being utilised while other applications are being used in the background. These tests are undertaken to ensure that we have minimal issues once the application is rolled out, and we can iron out all of the technical bugs before users can experience them.
+Security testing is one of the most important tests before releasing an application, which involves identifying the weaknesses and exposures in code. By exploiting the applications weaknesses, we are able to rectify them and make the application more impervious to security threats.
+<br><br>
+
+<b>Skills Required </b><br><br>
+The following skills are required for the development of this project<br>
+•	Apple and Android developers <br>
+•	AWS system engineers or experts <br>
+•	CI/CD pipeline experts <br>
+•	Project manager to oversee the program <br>
+•	System testers to ensure the application works as per the user stories/requirements <br>
+•	Performance testers to validate throughput of the system <br>
+<br><br>
+
+<b>Outcome </b><br><br>
+If the project is successful, the application will be launched publicly, and revenue will be generated. This type of solution is not a fast one and relies on volume and time to be successful. What we aim to achieve is generating millions of dollars globally to the deforestation issue. Over the next few generations, we aim to be one of the largest contributors of funding to solving global deforestation.
+The next steps would be to try and find a solution to bring on large multinational organisations to assist in donating with Chump Change. This has not been thought out yet, but there can be other solutions not limited to pay pass that could assist.
+One of them may be to team up with suppliers where invoices include a donation component, but this will be a new phase of the application.
+<br><br>
+<b>WireFrame </b><br><br>
+We have conceptulised the app with a wireframe on how it will work when a payment is made.<br?
+The flow of teh application flows the following format <br><br>
+<ul style="my-list-style">
+<li>Make a purchase and tap your phone for paypass</li>
+<li>App detects the rounding amount to nearest dollar</li>
+<li>App asks if you would like to donate this amount</li>
+</ul>
+<br><br>
+<img src="images/wireframe1.png" alt="SamPic" style="border: 3px solid #ccc width="450" height="450"; />
+<img src="images/wireframe2.png" alt="SamPic" style="border: 3px solid #ccc width="450" height="450"; />
+
+
+
+
+
+<br>
+<br>
+
+
+</div>
+
+<div id="footer">
+Designed by Tech Heads Team
+</div>
+</div>
+
+</body>
+</html>
